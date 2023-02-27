@@ -1,5 +1,14 @@
 # Kind cluster
 
+## Installation
+
+```
+curl -Lo ./kind https://kind.sigs.k8s.io/d1/v0.17.0/kind-linux-amd64
+chmod +x ./kind
+sudo mv ./kind /usr/local/bin/kind
+```
+
+
 ## Usefull commands
 
 ```
